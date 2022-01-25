@@ -1,2 +1,3 @@
 node_modules/
-ignore files
+# User-specific files - Ignore all files statrting with letter "z."
+z.*
